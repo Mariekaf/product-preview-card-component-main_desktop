@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    max-width: 1440px;
+    height: 812px;
+
+    background-color: hsl(30, 38%, 92%);
+    box-sizing: border-box;
+    display: flex; /* Flexbox */
+    flex-wrap: wrap;
+}
+.img{
+    margin: 0px auto;
+    width:350px ;
+    height: 480px;
+    margin-top: 150px;
+    margin-left:400px ;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    float: left;
+}
+.cadre{
+    margin: 0 auto;
+    float: left;
+    width:350px ;
+    height: 480px;
+    margin-top: 150px;
+    margin-left:-338px ;
+    background-color: hsl(0, 0%, 100%) ;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.text1{
+    margin-left: 35px;
+    margin-top: 40px;
+    color: hsl(228, 12%, 48%);
+    font-size: 13.5PX;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 5px;
+}
+
+.text2{
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 40px;
+    color: hsl(212, 21%, 14%);
+    font-weight: 900;
+    font-family: 'Fraunces', serif;
+}
+.text2_1{
+    font-size: 40px;
+    color: hsl(212, 21%, 14%);
+    font-weight: 900;
+    font-family: 'Fraunces', serif;
+}
+.text2_2{
+  
+    font-size: 40px;
+    color: hsl(212, 21%, 14%);
+    font-weight: 900;
+    font-family: 'Fraunces', serif;
+}
+.text3{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 2px;
+    font-size: 14px;
+    color:hsl(228, 12%, 48%) ;
+    font-weight: 100;
+    font-family: 'Montserrat', sans-serif;
+}
+.text4{
+    position: absolute;
+    margin-top: 7px;
+    width: 335px;
+    font-size: 14px;
+    color:hsl(228, 12%, 48%) ;
+    font-weight: 100;
+    font-family: 'Montserrat', sans-serif;
+}
+.text5{
+    position: absolute;
+    margin-top: 7px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color:hsl(228, 12%, 48%) ;
+    font-weight: 100;
+}
+.text6{
+    position: absolute;
+    margin-top: 7px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color:hsl(228, 12%, 48%) ;
+    font-weight: 100;
+}
+.text7{
+    position: absolute;
+    margin-top: 17px;
+    float: left;
+    font-size: 32px;
+    color:hsl(158, 36%, 37%) ;
+    font-weight: 900;
+    font-family: 'Fraunces', serif;
+}
+.text8{
+    position: absolute;
+    margin-top: 26px;
+    float: left;
+    font-size: 11px;
+    color:hsl(228, 12%, 48%) ;
+    margin-left: 145px;
+   
+}
+.text9{
+    margin-top: 15px;
+    background-color: hsl(158, 36%, 37%);
+    width: 292px;
+    border-radius: 7px;
+    height: 42px;
+}
+.img2{
+margin-left: 90px;
+ width: 12px;
+ float: left;
+ margin-top: 14px;
+}  
