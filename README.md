@@ -32,7 +32,7 @@ This report provides an overview of a simple web page created using HTML and CSS
 
 ### Links
 
-- Solution URL: [Ma solution](https://mariekaf.github.io/recipe-page-main/)
+- Solution URL: [Ma solution](https://mariekaf.github.io/product-preview-card-component-main_desktop/)
 
 
 ## My process
@@ -50,5 +50,5 @@ Throughout this project, I gained several key insights:
 
 ## Author
 
-- Website - [Mariekaff](https://github.com/Mariekaf/recipe-page-main.git)
+- Website - [Mariekaff](https://github.com/Mariekaf/product-preview-card-component-main_desktop.git)
 - Frontend Mentor - [mariefk](https://www.frontendmentor.io/profile/Mariekaf)
